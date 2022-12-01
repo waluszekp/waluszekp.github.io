@@ -59,11 +59,11 @@ plugins:
 
 author:
   name   : "Piotr Waluszek"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/_data/bio-photo.jpg"
   bio    : "Poor AGH UST student."
   links:
     - label: "Twitter"
-      icon: "https://twitter.com/peterwalus"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
